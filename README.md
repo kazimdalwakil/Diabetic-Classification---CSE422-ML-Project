@@ -12,3 +12,5 @@ I used three classification models:
     Decision tree
     Random Forest
     K-neighbors classifier
+    
+You can find more about the project <a href="https://kazimdalwakil.github.io/projects/4_project/">here.</a>
